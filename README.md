@@ -48,4 +48,4 @@ Guide and Linux fork created and maintained by **[DraconianDeveloper](https://gi
 
 - ❗ If you encounter any issues, try running the program as **administrator**.  
 - ⚙️ You may need to install **[.NET 8](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)** manually. While the installer attempts to automate this, it's not perfect.
-- ⚙️ If the game runs without mods when you chose the modded run option, run WEBFISHING through Steam first and then go back to HLS:R and relaunch through there. (This is an uncommon issue)
+- ⚙️ If the game runs without mods when you chose the modded run option, run WEBFISHING through Steam first and then go back to Buoy and relaunch through there. (This is an uncommon issue)
