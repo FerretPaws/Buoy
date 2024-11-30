@@ -35,7 +35,7 @@ If you're coming from **HLS**, there is a tool for **importing your old mods and
 
 ⚠️ **Do NOT download the source code** unless you know what you’re doing.  
 
-## **USING HLSR ON LINUX OR STEAM DECK**
+## **USING BUOY ON LINUX OR STEAM DECK**
 Follow the guide **[here](https://github.com/draconiandeveloper/Buoy/blob/main/BUILD-LINUX.md)**
   
 Guide and Linux fork created and maintained by **[DraconianDeveloper](https://github.com/draconiandeveloper)** (Thank you for your help!)
