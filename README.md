@@ -37,6 +37,8 @@ If you're coming from **HLS**, there is a tool for **importing your old mods and
 
 # Buoy will cause a false-positive if you use Windows Defender, you'll need to add an exception for Buoy in Defender and any network anti-virus you use should allow Thunderstore through with no redirects. 
 
+# If the game runs without mods when you chose the modded run option, run WEBFISHING through Steam first and then go back to Buoy and relaunch through there. (This is an uncommon issue)
+
 ## **USING BUOY ON LINUX OR STEAM DECK**
 Follow the guide **[here](https://github.com/draconiandeveloper/Buoy/blob/main/BUILD-LINUX.md)**
   
@@ -50,4 +52,3 @@ Guide and Linux fork created and maintained by **[DraconianDeveloper](https://gi
 
 - ❗ If you encounter any issues, try running the program as **administrator**.  
 - ⚙️ You may need to install **[.NET 8](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)** manually. While the installer attempts to automate this, it's not perfect.
-- ⚙️ If the game runs without mods when you chose the modded run option, run WEBFISHING through Steam first and then go back to Buoy and relaunch through there. (This is an uncommon issue)
