@@ -35,6 +35,8 @@ If you're coming from **HLS**, there is a tool for **importing your old mods and
 
 ⚠️ **Do NOT download the source code** unless you know what you’re doing.  
 
+# Buoy will cause a false-positive if you use Windows Defender, you'll need to add an exception for Buoy in Defender and any network anti-virus you use should allow Thunderstore through with no redirects. 
+
 ## **USING BUOY ON LINUX OR STEAM DECK**
 Follow the guide **[here](https://github.com/draconiandeveloper/Buoy/blob/main/BUILD-LINUX.md)**
   
